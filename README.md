@@ -56,17 +56,27 @@
 
 ---
 
-## 📈 Statistiques GitHub
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Ala-Ben-Salem&show_icons=true&theme=tokyonight" alt="Statistiques GitHub" style="border-radius: 10px; margin: 10px;">
-</p>
-<p align="center">
- <img src="https://streak-stats.demolab.com?user=Ala-Ben-Salem&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" style="border-radius: 10px; margin: 10px;">
-</p>
+## 📊 Statistiques GitHub
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ala-Ben-Salem&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" style="border-radius: 10px; margin: 10px;">
-</p>
+<table align="center">
+ <tr>
+  <td align="center">
+   <strong>📈 Statistiques Générales</strong><br>
+   <img src="https://github-readme-stats.vercel.app/api?username=Ala-Ben-Salem&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="Statistiques Générales">
+  </td>
+  <td align="center">
+   <strong>🔥 Streak Stats</strong><br>
+   <img src="https://streak-stats.demolab.com?user=Ala-Ben-Salem&theme=github-dark-blue&hide_border=true" alt="Streak Stats">
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2" align="center">
+   <strong>💻 Langages les Plus Utilisés</strong><br>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ala-Ben-Salem&layout=compact&theme=github_dark&hide_border=true" alt="Langages les Plus Utilisés">
+  </td>
+ </tr>
+</table>
+
 
 
 
