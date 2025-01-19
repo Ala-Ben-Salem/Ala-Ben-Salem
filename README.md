@@ -61,8 +61,9 @@
  <img src="https://github-readme-stats.vercel.app/api?username=Ala-Ben-Salem&show_icons=true&theme=tokyonight" alt="Statistiques GitHub" style="border-radius: 10px; margin: 10px;">
 </p>
 <p align="center">
-https://github-readme-streak-stats.herokuapp.com/?user=Ala-Ben-Salem&theme=tokyonight&hide_border=true
+ <img src="https://streak-stats.demolab.com?user=Ala-Ben-Salem&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" style="border-radius: 10px; margin: 10px;">
 </p>
+
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ala-Ben-Salem&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" style="border-radius: 10px; margin: 10px;">
 </p>
