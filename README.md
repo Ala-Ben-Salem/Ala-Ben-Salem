@@ -58,10 +58,11 @@
 
 ## 📈 GitHub Stats 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarGuesmi1&theme=radical&fire=FF4500" 
- alt="GitHub Streak" height="165">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarGuesmi1&theme=radical" 
- alt="Profile Summary" height="165">
+ <img src="https://github-readme-stats.vercel.app/api?username=Ala-Ben-Salem&show_icons=true&theme=radical" alt="GitHub Stats">
+ <br>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ala-Ben-Salem&theme=radical" alt="GitHub Streak Stats">
+ <br>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ala-Ben-Salem&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 
